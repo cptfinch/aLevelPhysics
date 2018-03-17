@@ -1,0 +1,27 @@
+{
+  "name": "alevelphysics",
+  "version": "1.0.0",
+  "description": "Questions for A Level Physics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cptfinch/aLevelPhysics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cptfinch/aLevelPhysics/issues"
+  },
+  "homepage": "https://github.com/cptfinch/aLevelPhysics#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
